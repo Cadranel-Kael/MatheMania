@@ -8,10 +8,9 @@ Donat Bracke est professeur de mathématiques dans l’enseignement secondaire g
 Pour remédier à ce problème, Monsieur Bracke a tenté de trouver des alternatives aux préparations, mais jusqu'à présent sans succès. C’est en voulant apprendre une nouvelle langue et en téléchargeant Duolingo qu’il s’est dit qu'une application mathématique pourrait l'aider. En effet, une application proposant aux élèves de choisir un point de matière et leur demandant de réaliser quelques petits exercices chaque jour pourrait les motiver à s’exercer un peu tous les jours.
 
 Cette application permettrait de :
-
-Proposer un nombre prédéfini et limité d’exercices, évitant ainsi aux élèves de se sentir débordés et leur permettant de progresser dans leur travail.
-Réaliser les exercices sur leur téléphone, ce qui est beaucoup plus facile pour eux que de sortir leurs affaires de leur sac et de chercher la bonne page dans leur classeur.
-Résoudre les exercices sur leur téléphone à tout moment, dès qu'ils ont quelques minutes de libre (dans les transports en commun, lorsqu'ils arrivent en avance, etc.).
-Fournir un feedback immédiat en indiquant si la réponse trouvée est juste ou fausse, et en affichant le raisonnement correct.
-Proposer de courtes vidéos explicatives pour rappeler la matière et les différentes règles à connaître.
-Permettre aux élèves de se regrouper dans une classe et de voir les milestones qu'ils ont atteints, ainsi que de vérifier s'ils "jouent" régulièrement.
+- Proposer un nombre prédéfini et limité d’exercices, évitant ainsi aux élèves de se sentir débordés et leur permettant de progresser dans leur travail.
+- Réaliser les exercices sur leur téléphone, ce qui est beaucoup plus facile pour eux que de sortir leurs affaires de leur sac et de chercher la bonne page dans leur classeur.
+- Résoudre les exercices sur leur téléphone à tout moment, dès qu'ils ont quelques minutes de libre (dans les transports en commun, lorsqu'ils arrivent en avance, etc.).
+- Fournir un feedback immédiat en indiquant si la réponse trouvée est juste ou fausse, et en affichant le raisonnement correct.
+- Proposer de courtes vidéos explicatives pour rappeler la matière et les différentes règles à connaître.
+- Permettre aux élèves de se regrouper dans une classe et de voir les milestones qu'ils ont atteints, ainsi que de vérifier s'ils "jouent" régulièrement.
